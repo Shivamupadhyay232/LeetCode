@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0509-fibonacci-number) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
