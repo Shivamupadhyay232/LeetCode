@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0205-isomorphic-strings](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
