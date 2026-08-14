@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivamupadhyay232/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3683-earliest-time-to-finish-one-task](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
