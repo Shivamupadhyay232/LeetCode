@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3731-find-missing-elements](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
