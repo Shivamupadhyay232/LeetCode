@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivamupadhyay232/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3731-find-missing-elements) |
