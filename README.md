@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1816-truncate-sentence](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1816-truncate-sentence) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivamupadhyay232/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3731-find-missing-elements](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3731-find-missing-elements) |
@@ -170,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
