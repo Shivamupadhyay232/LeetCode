@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0509-fibonacci-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0290-word-pattern) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -182,5 +185,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
