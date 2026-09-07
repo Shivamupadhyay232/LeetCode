@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0169-majority-element) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0069-sqrtx) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0290-word-pattern) |
