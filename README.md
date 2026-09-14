@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Shivamupadhyay232/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
