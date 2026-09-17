@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0162-find-peak-element) |
+| [0164-maximum-gap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0018-4sum) |
+| [0164-maximum-gap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -227,4 +229,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0836-rectangle-overlap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
