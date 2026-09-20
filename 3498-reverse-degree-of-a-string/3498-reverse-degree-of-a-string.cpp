@@ -4,8 +4,7 @@ public:
         int sum=0;
 
         for(int i=0;i<s.length();i++){
-            int rev=26-(s[i]-'a');
-            sum+=(i+1)*rev;
+            sum+=(i+1)*(26-(s[i]-'a'));
         }
 
         return sum;
