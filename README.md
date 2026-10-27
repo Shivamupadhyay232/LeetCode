@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Shivamupadhyay232/LeetCode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -222,11 +224,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivamupadhyay232/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Shivamupadhyay232/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
